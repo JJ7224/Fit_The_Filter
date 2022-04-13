@@ -10,4 +10,5 @@
     <color name="white">#FFFFFFFF</color>
     //Custom Colors
     <color name="primary_color">#3A3845</color>
+    <color name="red">#F29696</color>
 </resources>
